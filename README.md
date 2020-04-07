@@ -1,1 +1,2 @@
-# DSAPractice
+# Completed DSA Problems
+
