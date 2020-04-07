@@ -10,3 +10,8 @@
 ### Dictionaries
 
 [Most Frequent Int in Array](https://github.com/lynksdomain/DSAPractice/blob/master/Dictionaries/MostFrequentInt.swift)
+
+
+### Strings
+
+[Reverse a String](https://github.com/lynksdomain/DSAPractice/blob/master/Strings/reverseastring.swift)
