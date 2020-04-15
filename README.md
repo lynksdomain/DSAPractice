@@ -21,3 +21,9 @@
 
 ### Bitwise Operations
 [Hamming Distance](https://github.com/lynksdomain/DSAPractice/blob/master/Bitwise%20Operations/HammingDistance.swift)
+
+### Linked List
+
+[Find Middle Node](https://github.com/lynksdomain/DSAPractice/blob/master/Linked%20List/findMiddle.swift)
+[Partition at X](https://github.com/lynksdomain/DSAPractice/blob/master/Linked%20List/Partition.swift)
+
